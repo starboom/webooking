@@ -43,7 +43,8 @@ http://localhost:3000/backstage.html#/ 进入后台管理系统<br>
 ![图片演示](https://github.com/pig-L/reservation/blob/master/showImg/reserve.gif) <br>
 ![图片演示](https://github.com/pig-L/reservation/blob/master/showImg/result.gif) <br>
 
-
+### fork的说明
+参考同学的项目基础框架，进行学习node js的入手项目。
 
 
 
